@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "pthread.h": "c",
+        "math.h": "c",
+        "time.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "assert.h": "c",
+        "matriz.h": "c"
+    }
+}
